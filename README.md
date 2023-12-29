@@ -1,2 +1,4 @@
 # Avaliacao-tecnica-ctf
-Atividades realizadas, para análise de desempenho.
+Atividades realizadas com base nos requisitos solicitados no enunciado. 
+
+
