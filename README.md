@@ -1,2 +1,2 @@
-# Avalia-o-t-cnica-ctf
+# Avaliacao-tecnica-ctf
 Atividades realizadas, para análise de desempenho.
